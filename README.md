@@ -1,5 +1,5 @@
 # Memory Card Game
-## an interactive C# single player console application
+## An interactive C# single player console application
 
 Memory card game is an interactive single player console application built as a solution to the challenge question of the 2018 Kleiner Perkins Engineering Fellows application.
 
